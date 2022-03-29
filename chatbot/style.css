@@ -141,12 +141,12 @@ html,body
 .wrapper .typing-field .input-data button 
 {
     position: absolute;
-    right: 5px;
+    right: 7px;
     top: 50%;
     height: 30px;
     width: 65px;
     color: #fff;
-    font-size: 16px;
+    /* font-size: 16px; */
     cursor: pointer;
     border-radius: 3px;
     background: #11e234;
